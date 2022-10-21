@@ -1,0 +1,27 @@
+{
+  "name": "random-show-msg",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaft2022/random-show-msg.git"
+  },
+  "keywords": [],
+  "author": "Javier Antonio Félix Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaft2022/random-show-msg/issues"
+  },
+  "homepage": "https://github.com/jaft2022/random-show-msg#readme",
+  "bin": {
+    "random-show-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
